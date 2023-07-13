@@ -15,9 +15,9 @@
 
 
 ### More Stats
-![](https://komarev.com/ghpvc/?username=1rb)
+![](https://komarev.com/ghpvc/?username=InternetED)
 
-<a href="https://github.com/1RB">
+<a href="https://github.com/InternetED">
   <img align="center" src="https://streak-stats.demolab.com?user=InternetED&theme=github-dark&hide_border=true&ring=4C8EDA&fire=DD7A22&dates=4C8EDA">
 </a>
 
